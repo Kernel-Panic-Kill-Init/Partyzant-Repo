@@ -1,0 +1,52 @@
+## 🥷 Objective  
+*Find password to Bandit2*
+
+---
+
+## 🌐 Environment & Access  
+- **Host:**  bandit.labs.overthewire.org
+- **Port:**  2220
+- **Login:**  bandit1@bandit.labs.overthewire.org -p 2220
+- **Password/Hint:**  263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+---
+
+## 🧰 Useful Commands  
+```bash
+cat ./-
+
+
+---
+
+🚶 Walkthrough
+
+1. SSH into the box
+
+
+2. Run your recon
+
+
+3. Do the thing
+
+
+4. Profit
+
+
+
+
+---
+
+🏁 Flag / Password
+
+<paste here>
+
+
+---
+
+💡 Notes / Takeaways
+
+What did you learn?
+
+Gotchas?
+
+Commands you reused?
